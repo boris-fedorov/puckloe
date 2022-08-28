@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @puckloe
+- 🌱 I am going into university this September and wanted to start a GitHub to share programs and projects I have worked on in the past and am working on, as before I have not been able to have much feedback from other people on my work.
+- 👀 I’m interested in Reaserching in all sciences. I am particullaly interested in all areas in Computer Science, Mathematics and Physics. 
+- 📫 To Reach me Email boris.o.fedorov@yandex.ru
