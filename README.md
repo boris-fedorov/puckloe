@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @puckloe
+- 👋 Hi, I’m @boris-fedorov
 - 🌱 I am in my third year at the University of Reading
 - 📫 To Reach me Email boris.o.fedorov@yandex.ru
